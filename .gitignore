@@ -1,1 +1,3 @@
+# Ignores any IntelliJ Idea files that are automatically created within the IDE
 *.idea
+*.iml
