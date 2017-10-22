@@ -1,1 +1,30 @@
+element.style {
+    height: 233px;
+    margin-top: 89px;
+}
 
+div {
+    display: block;
+}
+
+center {
+    display: block;
+    text-align: -webkit-center;
+}
+
+body, html {
+    font-size: small;
+}
+
+body {
+    background: #fff;
+    color: #222;
+}
+
+body, td, a, p, .h {
+    font-family: arial,sans-serif;
+}
+
+body, html {
+    font-size: small;
+}
