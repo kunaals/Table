@@ -4,7 +4,6 @@ In college, however, things are very different. Everyone has different class tim
 Introducing Table, an application that allows UW students to find times to connect with their friends over the course of the week. This pseudo-social network application will help students realize that their friends are only a table away.
 
 ![A few screen images](https://github.com/kunaals/Table/blob/master/img/web/Final.png?raw=true"")
-(Full table proof of concept)
 
 # Features
  - You must have a uw.edu e-mail address to register
