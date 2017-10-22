@@ -6,6 +6,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 
 public class Student {
 
+
     @JsonProperty(value = "Name", required = true)
     private String name;
     @JsonProperty(value = "NetId", required = true)
